@@ -1,18 +1,22 @@
 # Hola, soy jefry-148
 
-Desarrollador enfocado en la creación de aplicaciones web dinámicas, sistemas de gestión de contenido (CMS) y plataformas digitales de alto rendimiento.
+Estudiante de Ingenieria de Sistemas e Informatica y me gusta la tecnología enfocado en la gestión, dirección y maquetación de proyectos web y sistemas digitales. 
 
-## Proyecto Principal Activo
+## Enfoque Profesional
 
-### CAUSEITOR
-Creador y programador independiente de **CAUSEITOR**, un portal periodístico premium y automatizado enfocado en el mundo del streaming, la tecnología, la farándula y la opinión. Desarrollado desde cero sin plantillas prefabricadas, implementando una arquitectura de base de datos eficiente y un panel de control avanzado para colaboradores y redactores.
+Me interesa liderar el desarrollo de productos digitales, coordinando la estructura lógica, el flujo de trabajo de los equipos y la arquitectura de la información desde una perspectiva de gestión de proyectos (Project Management).
 
-## Tecnologías y Herramientas
+## Proyecto de Estudio Activo
 
-* **Frontend:** HTML5 / CSS3 / JavaScript (ES6+) / CSS Grid / Flexbox
-* **Backend y Servidores:** Node.js / Python (Planificado para el motor del CMS)
-* **Bases de Datos:** MySQL / PostgreSQL
-* **Herramientas de Entorno:** Git / GitHub / JSFiddle (Prototipado rápido)
+### CAUSEITOR (Caso de Estudio)
+Director de proyecto y diseñador de la estructura de **CAUSEITOR**, una propuesta de portal periodístico automatizado para el sector de streaming y opinión. 
+* **Rol:** Gestión de requerimientos, diseño de flujo de trabajo para colaboradores (roles de redacción/edición) y maquetación del prototipo inicial (Frontend).
+* **Estado:** En fase de diseño lógico y prototipado de desarrollo.
+
+## Tecnologías y Herramientas en Aprendizaje
+
+* **Gestión y Planificación:** Definición de requerimientos, flujos de trabajo (Workflow), Git y GitHub.
+* **Maquetación Base:** HTML5 / CSS3 / JavaScript (Prototipado rápido).
 
 ## Estadísticas de Desarrollo
 
@@ -20,7 +24,7 @@ Creador y programador independiente de **CAUSEITOR**, un portal periodístico pr
   <img src="https://vercel.app" alt="Estadísticas de GitHub" />
 </p>
 
-## Contacto y Colaboraciones
+## Contacto
 
-* **Correo Electrónico:** [tu-correo@ejemplo.com]
-* **Sitio Web Oficial:** En desarrollo (CAUSEITOR)
+* **GitHub:** jefry-148
+* **Proyecto:** Portafolio Académico / Universitario
