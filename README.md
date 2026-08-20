@@ -26,7 +26,7 @@ Me interesa liderar el desarrollo de productos digitales, coordinando la estruct
 
 ---
 
-## 🚀 Caso de Estudio Activo
+## Caso de Estudio Activo
 
 <details open>
 <summary><b>📐 CAUSEITOR | Portal Periodístico Automatizado</b></summary>
@@ -41,7 +41,7 @@ Me interesa liderar el desarrollo de productos digitales, coordinando la estruct
 
 ---
 
-## 📈 Progreso Académico
+## Progreso Académico
 
 ```text
 Planificación Lógica  ██████████████████████████ 100%
