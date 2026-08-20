@@ -1,30 +1,57 @@
 # Hola, soy jefry-148
 
-Estudiante de Ingenieria de Sistemas e Informatica y me gusta la tecnología enfocado en la gestión, dirección y maquetación de proyectos web y sistemas digitales. 
-
-## Enfoque Profesional
-
-Me interesa liderar el desarrollo de productos digitales, coordinando la estructura lógica, el flujo de trabajo de los equipos y la arquitectura de la información desde una perspectiva de gestión de proyectos (Project Management).
-
-## Proyecto de Estudio Activo
-
-### CAUSEITOR (Caso de Estudio)
-Director de proyecto y diseñador de la estructura de **CAUSEITOR**, una propuesta de portal periodístico automatizado para el sector de streaming y opinión. 
-* **Rol:** Gestión de requerimientos, diseño de flujo de trabajo para colaboradores (roles de redacción/edición) y maquetación del prototipo inicial (Frontend).
-* **Estado:** En fase de diseño lógico y prototipado de desarrollo.
-
-## Tecnologías y Herramientas en Aprendizaje
-
-* **Gestión y Planificación:** Definición de requerimientos, flujos de trabajo (Workflow), Git y GitHub.
-* **Maquetación Base:** HTML5 / CSS3 / JavaScript (Prototipado rápido).
-
-## Estadísticas de Desarrollo
-
 <p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
+  <img src="https://shields.io" alt="Rol">
+  <img src="https://shields.io" alt="Estado">
 </p>
 
-## Contacto
+Me interesa liderar el desarrollo de productos digitales, coordinando la estructura lógica, el flujo de trabajo de los equipos y la arquitectura de la información desde una perspectiva de gestión de proyectos.
 
-* **GitHub:** jefry-148
-* **Proyecto:** Portafolio Académico / Universitario
+---
+
+## 🛠️ Tecnologías y Herramientas en Aprendizaje
+
+### Gestión y Planificación
+<p align="left">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="GitHub">
+</p>
+
+### Maquetación y Prototipado
+<p align="left">
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.io" alt="CSS3">
+  <img src="https://shields.io" alt="JavaScript">
+</p>
+
+---
+
+## 🚀 Caso de Estudio Activo
+
+<details open>
+<summary><b>📐 CAUSEITOR | Portal Periodístico Automatizado</b></summary>
+<br>
+
+* **Propuesta:** Plataforma digital independiente para el sector de streaming y farándula.
+* **Mi Rol:** Gestión de requerimientos de software, diseño del flujo de trabajo guiado para colaboradores (roles de redacción/edición) y maquetación de la arquitectura de la información (Frontend).
+* **Enfoque de Gestión:** Automatizar mediante lógica de negocio el ordenamiento de noticias en la base de datos sin intervención manual del usuario.
+* **Estado del Proyecto:** <code>En fase de diseño lógico y prototipado estructural</code>
+
+</details>
+
+---
+
+## 📈 Progreso Académico
+
+```text
+Planificación Lógica  ██████████████████████████ 100%
+Prototipado Frontend  ██████████████░░░░░░░░░░░░  55%
+Arquitectura Backend  ████░░░░░░░░░░░░░░░░░░░░░░  15%
+```
+
+---
+
+## ✉️ Contacto
+
+* **GitHub:** @jefry-148
+* **Ecosistema:** Portafolio Académico en desarrollo continuo
